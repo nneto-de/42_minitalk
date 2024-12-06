@@ -27,7 +27,7 @@ Visual studio Code
 1. Clone the repository
 2. To compile you can just run the following commands, each in a different terminal:
 
-./server
+./server <br>
 ./client [SERVER PID] [MESSAGE]
 
 
